@@ -1,5 +1,7 @@
 //main.h
 
+#define _strdup strdup
+
 //#include "args.h"
 #include "BudgetForest.h"
 //#include "tupleW.h"

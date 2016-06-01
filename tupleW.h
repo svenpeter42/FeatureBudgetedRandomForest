@@ -1,6 +1,8 @@
 #ifndef AM_ML_TUPLE_H
 #define AM_ML_TUPLE_H
 
+#define _strdup strdup
+
 #include <iostream>
 #include <string>
 #include <fstream>

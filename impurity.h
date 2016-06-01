@@ -3,7 +3,7 @@
 
 #include "tupleW.h"
 #include "args.h"
-#include <boost\numeric\ublas\vector.hpp>
+#include <boost/numeric/ublas/vector.hpp>
 using namespace std;
 
 bool impurity_splitW_noMiss(data_t data, int& f_split, double& v_split, double imp, boost::numeric::ublas::vector<int>& c_total,args_t& myargs, double (*impurityHandle)(int, boost::numeric::ublas::vector<int>&,double));

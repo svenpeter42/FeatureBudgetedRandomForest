@@ -5,9 +5,9 @@
 #include "args.h"
 #include "impurity.h"
 #include <map>
-#include <boost\numeric\ublas\vector.hpp>
-#include <boost\bind.hpp>
-#include <boost\thread\thread.hpp>
+#include <boost/numeric/ublas/vector.hpp>
+#include <boost/bind.hpp>
+#include <boost/thread/thread.hpp>
 
 using namespace std;
 
